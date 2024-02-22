@@ -25,7 +25,7 @@
     "ng2-charts": "^2.4.2",
     "ngx-daterangepicker-material": "^4.0.1",
     "tslib": "^2.0.0",
-    "@types/datatables.net": "1.10.19"
+    "@types/datatables.net": "1.10.28"
   },
   "keywords": [
     "dashlets",
