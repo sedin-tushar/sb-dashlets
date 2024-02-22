@@ -13,7 +13,7 @@
   "private": true,
   "dependencies": {
     "@angular-devkit/architect": "^0.1400.0",
-    "@angular-devkit/core": "^14.0.0",
+    "@angular-devkit/core": "^14.2.13",
     "@angular-devkit/schematics": "^14.0.0",
     "@angular/animations": "^14.0.0",
     "@angular/common": "^14.0.0",
