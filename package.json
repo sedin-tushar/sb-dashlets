@@ -23,7 +23,6 @@
     "@angular/platform-browser": "^15.2.10",
     "@angular/platform-browser-dynamic": "^15.2.10",
     "@angular/router": "^15.2.10",
-    "@project-sunbird/sb-dashlet": "file:../../../.nvm/versions/node/v15.0.0/lib/node_modules/@project-sunbird/sb-dashlet",
     "@project-sunbird/sb-styles": "0.0.7",
     "@schematics/angular": "^15.2.0",
     "@schematics/update": "^0.1102.18",
